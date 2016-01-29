@@ -1,19 +1,4 @@
-name: dump
-favicon: null
-layout_spectrum: 0.5580724948085845
-typography_spectrum: 0.607693848432973
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#9D2D3C'
@@ -23,6 +8,11 @@ color:
     - '#160600'
   brandStrength: 0.31553361704573035
   lightness: 0.6890565208159387
-  saturation: 0.21551037789322436
   rhythmicContrast: 0.021397709380835295
+  saturation: 0.21551037789322436
+cta: {}
+layout_spectrum: 0.878378
+name: dump
+opengraph: {}
 purpose: []
+typography_spectrum: 0.492117
